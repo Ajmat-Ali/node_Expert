@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245" height="73" viewBox="0 0 245 73">
+  <g id="Btg" transform="translate(-1513 -3574)">
+    <g id="Rectangle_77" data-name="Rectangle 77" transform="translate(1513 3574)" fill="#ffec05" stroke="#ffec05" stroke-width="1">
+      <rect width="245" height="73" rx="36.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="244" height="72" rx="36" fill="none"/>
+    </g>
+    <text id="get_more" data-name="get more" transform="translate(1636 3619)" fill="#333" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54" y="0">Get More</tspan></text>
+  </g>
+</svg>
