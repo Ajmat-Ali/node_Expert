@@ -154,7 +154,7 @@ function Home() {
         <header>
           <nav>
             <div>
-              <img src="../public/Group 1758.svg" alt="" />
+              <img src="../public/Group-1758.svg" alt="" />
             </div>
             <div>
               <ul>
@@ -191,7 +191,7 @@ function Home() {
                   </span>
                 </button>
                 <div className="sidebar-logo">
-                  <img src="../public/Group 1758.svg" alt="" />
+                  <img src="../public/Group-1758.svg" alt="" />
                   <div className="sidebar_link">
                     <div>
                       <div>Home</div>
@@ -218,7 +218,7 @@ function Home() {
               <div className="book_explore">
                 <div>
                   <a href="#">
-                    <img src="../public/btg-1.svg" alt="Book Demo Class" />
+                    <img src="../public/Btg-1.svg" alt="Book Demo Class" />
                   </a>
                 </div>
                 <div>
