@@ -25,7 +25,7 @@ npm install bootstrap react-icons
 
 # Credits
 
-This project was completed solely by [Your Name].
+This project was completed solely by Ajmat ALi.
 
 # Support
 
